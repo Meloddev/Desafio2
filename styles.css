@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: #F3F5FC;;
+}
+.logo{
+    Width: Hug 120px;
+    Height: Hug 48px;
+    Top: 40px;
+    Left: 40px;
+    Gap: 40px;
+
+}
+.text-box{
+    position: relative;
+    left: 50px;
+    top: 145px;
+    Width: 680px;
+    Height:48px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400px;
+    font-size:32px;
+    color:#0A3871;
+}
+.input placeholder{
+    color:#0A3871;
+}
+.retangulo{
+    position: fixed;
+    Width:400px;
+    Height:944px;
+    Top: 40px;
+    Left: 1000px;
+    box-shadow: inset;
+   
+}
+.diamante{
+    position: relative;
+    Width: 336px;
+    Height: 304px;
+    Top: 283px;
+    Left: 1032px;
+}
+
+.criptografar{
+    position:relative;
+    left:360px;
+    top:155px;
+
+}
+.descriptografar{
+    position: relative;
+    left: 580px;
+    top:86px;
+}
+
+.criptografar_botao{
+    Width: Fixed 328px;
+    Height: Hug 67px;
+    border-radius: 24px;
+    Padding: 24px;
+    Gap: 8px;
+    background-color:#0A3871;
+    color:#FFFFFF;
+}
+.descriptografar_botao{
+    Width: Fixed 328px;
+    Height: Hug 67px;
+    border-radius: 24px;
+    Padding: 24px;
+    Gap: 8px;
+    background-color:#D8DFE8;
+    color:#0A3871
+}
